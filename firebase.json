@@ -21,6 +21,10 @@
         "function": "apiHttp"
       },
       {
+        "source": "/test-hk",
+        "function": "test"
+      },
+      {
         "source": "**",
         "function": "ssrapp"
       }
